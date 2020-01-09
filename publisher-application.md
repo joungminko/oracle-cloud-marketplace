@@ -1,7 +1,20 @@
 
 ## Using Oracle Cloud Marketplace Partner Portal
 
-1. to register to publish apps and services to Oracle Cloud Marketplace:
+1. Person in charge: marketplace-help_us_grp@oracle.com
+2. Technical requirement
+
+| Requirement        | Remarks / Documentation           | Links/ Documents  |
+| ------------- |-------------| -----|
+| Deployment Guide      | - Required if your application runs on Oracle Cloudis deployed on Oracle Cloud. <br/> - Explain how your application is set up on the Oracle Cloud and provide all the requirements in terms of networking, storage, compute and security. <br/>  - This is how your company has set up your application on the Oracle Cloud not necessarily how you would deploy individual customers. <br/> - We typically don’t need a step by step guide (this is an internal document only). | use own template |
+| Powered By Oracle Questionnaire      | - Partner applications that run-on (are "Powered-by") Oracle Cloud PaaS or IaaS. For example, packaged applications, VM images, and partner applications that are offered as a SaaS service running on the Oracle Cloud (in the ISVs own tenancy).      |  [Template](https://partner.cloudmarketplace.oracle.com/partner/content?contentId=30117532) |
+| Integrated with Oracle Questionnaire | - Partner applications that "Integrate-with" one or more Oracle Cloud Services (SaaS, PaaS, or IaaS). For example, applications that interface with the Oracle Cloud Services APIs (running on customer’s tenancy) or uses cloud service specific extensibility features for custom objects, UI, mashups, etc.       |    [Template](https://partner.cloudmarketplace.oracle.com/partner/content?contentId=30117505) |
+| Security Questionnaire | - Provide documentation on “Security Policies and Practices” for your solution      |    [Template](https://partner.cloudmarketplace.oracle.com/partner/content?contentId=33821968) |
+| Support Information | - Include OCI prerequisites in the "System requirements" section of the listing      |    **Support Information** section when you edit listing |
+| OCI Prerequisites | - Include OCI prerequisites in the "System requirements" section of the listing      |    **System Requirements** section when you edit listing |
+| Public Documentation for your Application on OCI | - Please include public documentation detailing your application on OCI (architecture diagram, webpage, guide) <br/> - PDFs can be uploaded to listing or you can link to a webpage - Include this information in the Related Documents section of your listing. |    **Related Documents** section when you edit listing |
+
+3. to register to publish apps and services to Oracle Cloud Marketplace:
     - go to the Oracle Cloud Marketplace website:
     http://cloud.oracle.com/marketplace
     - Open the **Publishers menu**, and select **Become a Publisher**.
