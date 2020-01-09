@@ -1,6 +1,6 @@
 # Oracle Cloud Marketplace
 
-1. How to upload your application to Oracle cloud?
+1. How to upload your application to Oracle cloud Marketplace?
     - Person in charge: marketplace-help_us_grp@oracle.com
 2. Technical Requirement: [link](https://github.com/joungminko/oracle-cloud-marketplace/blob/master/technical-requirement.md)
 
