@@ -33,3 +33,4 @@ We’ll review and process your application. After your application is approved,
     
 ## Website reference
 1. Using Oracle Cloud Marketplace Partner Portal: https://docs.oracle.com/en/cloud/marketplace/partner-portal/partp/step-3-complete-publisher-application.html
+2. Publish Your Apps and Services with Oracle Cloud(Youtube video): https://www.youtube.com/watch?v=f1wWY22NP18#action=share
