@@ -3,8 +3,8 @@
 1. Oracle Cloud Marketplace에 앱 및 서비스를 게시하도록 등록하려면 다음을 수행
     - Oracle Cloud Marketplace 웹 사이트로 이동: http://cloud.oracle.com/marketplace
     - **Publishers menu**(게시자 메뉴)를 열고 **Become a Publisher**를 선택
-    - 서비스를 등록하려면 Oracle Cloud Marketplace에서 **Publish Services and Applications on the Oracle Cloud Marketplace** 옵션에 대해 **Go**를 클릭<br/>
-    - Oracle 계정에 로그인<br/>
+    - 서비스를 등록하려면 Oracle Cloud Marketplace에서 **Publish Services and Applications on the Oracle Cloud Marketplace** 옵션에 대해 **Go**를 클릭
+    - Oracle 계정에 로그인<br/>
     - 연락 정보를 작성, 마켓 플레이스에 게시하려는 앱 또는 서비스에 대한 질문이있는 경우 이 정보를 사용함
     - 회사 정보를 작성, 다음은 몇 가지 중요한 참고 사항<br/>
         - OPN 번호: OPN (Oracle PartnerNetwork) 멤버십 번호를 입력, Oracle Cloud Marketplace 게시자로 등록하려면 회사가 OPN (Oracle PartnerNetwork)의 구성원이어야함<br/>
