@@ -6,6 +6,6 @@
 | 오라클 클라우드 플렛폼에서 구동을 위한 오라클 설문지(Oracle Questionnaire)       | - 오라클 클라우드에서 PaaS 혹은 IaaS 형태로 운영되는 파트너 어플리케이션.<br/> 예를 들어 오라클 클라우드에서 운영되는 SaaS 서비스로 제공되는 패키지 어플리케이션, VM 이미지, 파트너 어플리케이션(ISV 업체의 테넌시에서)       |  [오라클 설문지 양식(영문)](https://partner.cloudmarketplace.oracle.com/partner/content?contentId=30117532) |
 | 오라클 클라우드 통합과 확장을 위한 오라클 설문지(Oracle Questionnaire) | - 하나 이상의 Oracle Cloud Services (SaaS, PaaS 또는 IaaS)를 "통합" 하는 파트너 애플리케이션. 예를 들어 Oracle Cloud Services API와 인터페이스하거나 (고객의 테넌시에서 실행) 사용자 정의 객체, UI, 매시업 등에 클라우드 서비스 별 확장 기능을 사용하는 애플리케이션      |    [오라클 설문지 양식(영문)](https://partner.cloudmarketplace.oracle.com/partner/content?contentId=30117505) |
 | 보안 설문지 | - 솔루션의 "보안 정책 및 사례"에 대한 설명서를 제공      |    [보안 설문지](https://partner.cloudmarketplace.oracle.com/partner/content?contentId=33821968) |
-| 지원 정보 | - 목록 안 "시스템 요구 사항" 섹션에 OCI 전제 조건 포함      |    **Support Information** section when you edit listing |
-| OCI Prerequisites | - Include OCI prerequisites in the "System requirements" section of the listing      |    **System Requirements** section when you edit listing |
-| Public Documentation for your Application on OCI | - Please include public documentation detailing your application on OCI (architecture diagram, webpage, guide) <br/> - PDFs can be uploaded to listing or you can link to a webpage - Include this information in the Related Documents section of your listing. |    **Related Documents** section when you edit listing |
+| 지원 정보 | - 목록 안 "시스템 요구 사항" 섹션에 OCI 전제 조건 포함      |    목록에서 수정 할 **지원 정보** 섹션 |
+| OCI 전제 조건 | - 목록 안 "시스템 요구 사항" 섹션 OCI 전제 조건 포함      |    목록에서 수정 할  **시스템 요구사항** 섹션 |
+| OCI 위에 동작할 어플리케이션을 위한 공개 문서 | - OCI 위에 동작할 어플리케이션 세부내역을 공개문서를 포함하여 제공해 주십시오(아키텍처 다이어그램, 웹페이지, 가이드) <br/> - 목록에 PDF 도 올라갈 수 있고 웹페이지 링크도 포함 할 수 있음<br/>  - 목록의 관련 문서 항목에 포함 해야 할 정보 |    목록 에서 수정 할 **관련 문서** 항목 |
