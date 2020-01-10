@@ -8,5 +8,5 @@
 3. Using Oracle Cloud Marketplace Partner Portal: [link](https://github.com/joungminko/oracle-cloud-marketplace/blob/master/publisher-application.md)
 
 
-## Website reference
+## Reference
 1. Publish Your Apps and Services with Oracle Cloud(Youtube video): https://www.youtube.com/watch?v=f1wWY22NP18#action=share
