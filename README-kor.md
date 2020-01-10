@@ -1,6 +1,6 @@
 # 오라클 클라우드 마켓플레이스
 
-**For Engilsh speaker(영어 유저)**: [link](https://github.com/joungminko/oracle-cloud-marketplace/blob/master/README.md)
+**For English speaker**: [link](https://github.com/joungminko/oracle-cloud-marketplace/blob/master/README.md)
 
 ### How to upload your application to Oracle cloud Marketplace?
 
