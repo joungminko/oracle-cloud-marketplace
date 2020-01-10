@@ -10,7 +10,7 @@
         - Security Questionnaire(Oracle questionnaire template)
         - Either "Integrates-with Oracle Cloud Questionnaire" or "Powered By Oracle Questionnaire" template(Oracle questionnaire template)
       - You can find the Oracle Questionaire and explanation in [Technical Requirement](https://github.com/joungminko/oracle-cloud-marketplace/blob/master/technical-requirement.md)
-    - After you write above 3 documenets, you can submit your application to Oracle Cloud Marketplace via Oracle Partner Portal. [Using Oracle Cloud Marketplace Partner Portal](https://github.com/joungminko/oracle-cloud-marketplace/blob/master/publisher-application.md)
+      - After you write above 3 documenets, you can submit your application to Oracle Cloud Marketplace via Oracle Partner Portal. [Using Oracle Cloud Marketplace Partner Portal](https://github.com/joungminko/oracle-cloud-marketplace/blob/master/publisher-application.md)
 
 
 ## Reference
