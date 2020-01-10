@@ -1,6 +1,6 @@
 # Oracle Cloud Marketplace
 
-**Korean version(한국어 버전)**: [link](https://github.com/joungminko/oracle-cloud-marketplace/blob/master/README-kor.md)
+**한국어 버전**: [link](https://github.com/joungminko/oracle-cloud-marketplace/blob/master/README-kor.md)
 
 1. How to upload your application to Oracle cloud Marketplace?
     - Person in charge: marketplace-help_us_grp@oracle.com
