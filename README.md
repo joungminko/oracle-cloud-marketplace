@@ -4,8 +4,9 @@
 
 1. How to upload your application to Oracle cloud Marketplace?
     - Person in charge: marketplace-help_us_grp@oracle.com
-2. Technical Requirement: [link](https://github.com/joungminko/oracle-cloud-marketplace/blob/master/technical-requirement.md)
-3. Using Oracle Cloud Marketplace Partner Portal: [link](https://github.com/joungminko/oracle-cloud-marketplace/blob/master/publisher-application.md)
+    - Process of submission
+      1. You basically need to fill up a deployment guide(use own template), Security Questionnaire(Oracle questionnaire template), and either "Integrates-with Oracle Cloud Questionnaire" or "Powered By Oracle Questionnaire" template(Oracle questionnaire template).  You can find the Oracle Questionaire and explanation in [Technical Requirement](https://github.com/joungminko/oracle-cloud-marketplace/blob/master/technical-requirement.md)
+      2. After you write above 3 documenets, you can submit your application to Oracle Cloud Marketplace via Oracle Partner Portal. [Using Oracle Cloud Marketplace Partner Portal](https://github.com/joungminko/oracle-cloud-marketplace/blob/master/publisher-application.md)
 
 
 ## Reference
